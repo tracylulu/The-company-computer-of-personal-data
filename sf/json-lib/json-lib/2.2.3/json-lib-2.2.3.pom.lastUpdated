@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 19 10:35:36 CST 2020
+70803a16f0dcdcbdae71a0aa07a7431da01ee8fe@proxy02.h3c.com\:8080>@default-aliyun-snapshots-https\://maven.aliyun.com/repository/public/.lastUpdated=1582079736331
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact net.sf.json-lib\:json-lib\:pom\:2.2.3 from/to aliyun-snapshots (https\://maven.aliyun.com/repository/public)\: Connection reset
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1582079736581
